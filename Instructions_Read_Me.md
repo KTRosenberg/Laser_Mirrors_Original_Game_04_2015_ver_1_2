@@ -60,6 +60,6 @@ Mirror graphics created by,
 Background music "Floating Point" composed by Karl Toby Rosenberg
 
 Written in Java and Processing, (perhaps I will re-make it in a different language)
-Note: the runnable .jar is included in the repository. I understand that the file is not very secure, but for convenience I have still added the file. Eclipse .settings, .classpath, and .pathname have been added as well.
+Note: the runnable .jar is included in the repository. I understand that the file is not very secure, but for convenience I have still added the file. Eclipse .settings, .classpath, and .project have been added as well.
 
 Enjoy!
