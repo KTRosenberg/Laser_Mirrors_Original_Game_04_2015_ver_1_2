@@ -42,7 +42,7 @@ CONTROLS:
 		L ------> \
 				  |
 				  |
-				  
+		          v		  
 		AVOID hitting the SHORT SIDE of a mirror. The laser will be absorbed, the point multiplier will reset, the player will lose 1000 points, and the laser will reset at the bottom of the screen
 		
 		L ------> -
